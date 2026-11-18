@@ -1,0 +1,10 @@
+body {
+  font-family: "Poppins", sans-serif;
+  font-style: normal; 
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 96px;
+  line-height: 144px;
+}
